@@ -39,4 +39,10 @@
 <video width="400" height="200" src="project6/lunar_lander.mp4" type="video/mp4" controls>
 </video>
 
+---
+
+### Natural Language Processing
+
+- [Character level language model - Dinosaurus Island & Writing like Shakespeare](/project7/Character level language model.md)
+
 <!-- Remove above link if you don't want to attibute -->

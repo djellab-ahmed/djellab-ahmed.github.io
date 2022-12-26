@@ -9,10 +9,12 @@
 </video>
 
 ---
+
 - [Deep Learning & Art: Neural Style Transfer](/project2/Neural Style Transfer.md)
 <img src="project2/louvre_generated.png?raw=true"/>
 
 ---
+
 - [Image Segmentation](/Image Segmentation.html)
 <img src="images/carseg.png?raw=true"/>
 
@@ -26,9 +28,9 @@
 ---
 ### Recommender system
 
-- [Collaborative-Filtering](/project4/Collaborative-Filtering.md)
-<img src="project4/Collaborative_filtering.gif" />
+- [Collaborative-Filtering](/project4/Collaborative_filtering.md)
 
+<img src="project4/Collaborative_filtering.gif" />
 
 ---
 <!-- Remove above link if you don't want to attibute -->

@@ -4,7 +4,7 @@
 
 ### Computer vision 
 
-[Autonomous Driving - Car Detection](/project1/Yolo Car Detection)
+[Autonomous Driving - Car Detection](/project1/Yolo Car Detection)\
 <video width="400" height="200" src="images/pred_video.mp4" type="video/mp4" controls>
 </video>
 

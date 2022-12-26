@@ -5,7 +5,8 @@
 ### Category Name 1 
 
 [Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<video width="400" height="200" src="images/pred_video.mp4" type="video/mp4" controls>
+</video>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)

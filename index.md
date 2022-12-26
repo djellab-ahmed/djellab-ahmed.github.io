@@ -35,6 +35,6 @@
 
 ### Reinforcement learning
 
-- [Deep-Q-Learning](/project5/Deep-Q-Learning.md)
-<img src="project5/lunar_lander.gif?raw=true"/>
+- [Deep-Q-Learning](/project6/Deep-Q-Learning.md)
+<img src="project6/lunar_lander.gif?raw=true"/>
 <!-- Remove above link if you don't want to attibute -->

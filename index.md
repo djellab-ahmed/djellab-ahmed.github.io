@@ -32,4 +32,9 @@
 - [Content-Based-Filtering](/project5/Content-Based-Filtering.md)
 
 ---
+
+### Reinforcement learning
+
+- [Deep-Q-Learning](/project5/Deep-Q-Learning.md)
+<img src="project5/lunar_lander.gif?raw=true"/>
 <!-- Remove above link if you don't want to attibute -->

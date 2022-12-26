@@ -13,7 +13,7 @@
 <img src="project2/louvre_generated.png?raw=true"/>
 
 ---
-[Image Segmentation](/project2/Image Segmentation.md)
+[Image Segmentation](/project3/Image Segmentation.md)
 <img src="project3/carseg.png?raw=true"/>
 
 ---

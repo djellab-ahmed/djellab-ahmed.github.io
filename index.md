@@ -20,11 +20,8 @@
 
 ### Anomaly Detection
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Anomaly Detection](/project3/Anomaly Detection.md)
+<img src="project3/output_14_1.png?raw=true"/>
 
 ---
 

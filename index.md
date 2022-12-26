@@ -13,8 +13,8 @@
 <img src="project2/louvre_generated.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Image Segmentation](/project2/Image Segmentation.md)
+<img src="carseg.png?raw=true"/>
 
 ---
 

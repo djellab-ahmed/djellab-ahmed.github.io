@@ -4,8 +4,7 @@
 
 ### Computer vision 
 
-[Autonomous Driving - Car Detection](/project1/Yolo Car Detection)
----
+[Autonomous Driving - Car Detection](/project1/Yolo Car Detection)\
 [Source Code](https://github.com/djellab-ahmed/Car-Detection-with-YOLO-V2)
 <video width="400" height="200" src="images/pred_video.mp4" type="video/mp4" controls>
 </video>

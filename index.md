@@ -27,7 +27,7 @@
 ### Recommender system
 
 - [Collaborative-Filtering](/project4/Collaborative-Filtering.md)
-<img src="project4/Collaborative_filtering.gif?raw=true"/>
+<img src="project4/Collaborative_filtering.gif" />
 
 
 ---

@@ -636,7 +636,7 @@ If you were to run your session in a for loop over all your images. Here's what 
 
 
 <center>
-<video width="400" height="200" src="/pred_video_compressed2.mp4" type="video/mp4" controls>
+<video width="400" height="200" src="pred_video_compressed2.mp4" type="video/mp4" controls>
 </video>
 </center>
 

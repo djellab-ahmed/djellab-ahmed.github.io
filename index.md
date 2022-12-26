@@ -14,7 +14,7 @@
 
 ---
 [Image Segmentation](/project2/Image Segmentation.md)
-<img src="carseg.png?raw=true"/>
+<img src="project3/carseg.png?raw=true"/>
 
 ---
 

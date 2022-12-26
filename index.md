@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Computer vision 
 
-[Project 1 Title](/sample_page)
+[Autonomous Driving - Car Detection](/sample_page)
 <video width="400" height="200" src="images/pred_video.mp4" type="video/mp4" controls>
 </video>
 

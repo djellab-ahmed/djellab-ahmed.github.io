@@ -9,8 +9,8 @@
 </video>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Deep Learning & Art: Neural Style Transfer](/project2/Neural Style Transfer)
+<img src="project2/louvre_generated.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)

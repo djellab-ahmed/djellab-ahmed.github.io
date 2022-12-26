@@ -4,12 +4,12 @@
 
 ### Computer vision 
 
-[Autonomous Driving - Car Detection](/project1/Yolo Car Detection)
+[Autonomous Driving - Car Detection](/project1/Yolo Car Detection.md)
 <video width="400" height="200" src="images/pred_video.mp4" type="video/mp4" controls>
 </video>
 
 ---
-[Deep Learning & Art: Neural Style Transfer](/project2/Neural Style Transfer)
+[Deep Learning & Art: Neural Style Transfer](/project2/Neural Style Transfer.md)
 <img src="project2/louvre_generated.png?raw=true"/>
 
 ---

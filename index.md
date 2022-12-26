@@ -29,8 +29,7 @@
 ### Recommender system
 
 - [Collaborative-Filtering](/project4/Collaborative_filtering.md)
-
-<img src="project4/Collaborative_filtering.gif" />
+- [Content-Based-Filtering](/project5/Content-Based-Filtering.md)
 
 ---
 <!-- Remove above link if you don't want to attibute -->

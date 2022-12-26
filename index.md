@@ -26,8 +26,8 @@
 ---
 ### Recommender system
 
-- [Anomaly Detection](/project3/Anomaly Detection.md)
-<img src="project3/output_14_1.png?raw=true"/>
+- [Collaborative-Filtering](/project4/Collaborative-Filtering.md)
+<img src="project4/Collaborative_filtering.gif?raw=true"/>
 
 
 ---

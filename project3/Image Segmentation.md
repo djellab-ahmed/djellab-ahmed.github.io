@@ -1,6 +1,6 @@
 # Image Segmentation with U-Net
 
-<img src="carseg.png" style="width:500px;height:250;">
+<img src="images/carseg.png" style="width:500px;height:250;">
 <caption><center> <u><b>Figure 1</u></b>: Example of a segmented image <br> </center></caption>
 
 ## Table of Content
@@ -170,7 +170,7 @@ processed_image_ds = image_ds.map(preprocess)
 <a name='3-1'></a>
 ### 3.1 - Model Details
 
-<img src="unet.png" style="width:700px;height:400;">
+<img src="images/unet.png" style="width:700px;height:400;">
 <caption><center> <u><b> Figure 2 </u></b>: U-Net Architecture<br> </center></caption>
 
 **Contracting path** (Encoder containing downsampling steps):
@@ -196,7 +196,7 @@ The U-Net network has 23 convolutional layers in total.
 <a name='3-2'></a>
 ### 3.2 - Encoder (Downsampling Block) 
 
-<img src="encoder.png" style="width:500px;height:500;">
+<img src="images/encoder.png" style="width:500px;height:500;">
 <caption><center> <u><b>Figure 3</u></b>: The U-Net Encoder up close <br> </center></caption>
 
 The encoder is a stack of various conv_blocks:
@@ -258,7 +258,7 @@ def conv_block(inputs=None, n_filters=32, dropout_prob=0, max_pooling=True):
 
 The decoder, or upsampling block, upsamples the features back to the original image size. At each upsampling level, you'll take the output of the corresponding encoder block and concatenate it before feeding to the next decoder block.
 
-<img src="decoder.png" style="width:500px;height:500;">
+<img src="images/decoder.png" style="width:500px;height:500;">
 <caption><center> <u><b>Figure 4</u></b>: The U-Net Decoder up close <br> </center></caption>
 
 There are two new components in the decoder: `up` and `merge`. These are the transpose convolution and the skip connections. In addition, there are two more convolutional layers set to the same parameters as in the encoder. 
